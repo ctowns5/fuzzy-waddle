@@ -1,1 +1,1 @@
-# fuzzy-waddle
+# Tech Blog (project fuzzy-waddle)
